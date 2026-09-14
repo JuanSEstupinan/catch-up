@@ -9,7 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.42"
+    "@primeicons/vue": "^8.0.1",
+    "@primeuix/themes": "^3.0.0",
+    "axios": "^1.20.0",
+    "primeflex": "^4.0.0",
+    "primevue": "^5.0.1",
+    "vue": "^3.5.42",
+    "vue-i18n": "^11.4.10"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.8",
